@@ -1,15 +1,16 @@
 /* CSS Styling */
 
-.button {
+.button_dark,
+.button_light {
   font-size: 28px;
   font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.button.dark {
+.button_dark {
   background-color: black;
   color: white;
 }
 
-.button.light {
+.button_light {
   background-color: yellow;
 }
